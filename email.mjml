@@ -1,0 +1,142 @@
+<mjml>
+    <mj-head>
+      <mj-title>Maison de Haute Pâtisserie Parisienne</mj-title>
+      <mj-preview>Nouvelle Collection Éphémère : Les Délices d'Automne ✨🍫</mj-preview>
+      <mj-attributes>
+        <mj-all font-family="'Playfair Display', 'Georgia', serif" />
+        <mj-text font-size="14px" color="#3a2f2d" line-height="22px" />
+        <mj-section background-color="#ffffff" />
+      </mj-attributes>
+      <mj-style>
+        .gold-tag { display: inline-block; background-color: #261e1b; color: #dfa15a; font-size: 10px; font-weight: 700; letter-spacing: 2px; text-transform: uppercase; padding: 4px 10px; border-radius: 2px; font-family: 'Helvetica Neue', sans-serif; }
+        .product-title { font-size: 17px !important; font-weight: 700 !important; letter-spacing: 0.5px !important; min-height: 44px; }
+        .product-desc { min-height: 48px; font-family: 'Helvetica Neue', sans-serif !important; font-size: 12px !important; line-height: 18px !important; color: #7a6e6b !important; }
+        .btn-luxury:hover { background-color: #c98840 !important; }
+      </mj-style>
+    </mj-head>
+  
+    <mj-body background-color="#181311">
+      
+      <mj-section background-color="#181311" padding="12px 15px">
+        <mj-column>
+          <mj-text align="center" font-size="10px" color="#c4b3ac" font-family="'Helvetica Neue', sans-serif" letter-spacing="3px" padding="0">
+            MAISON FONDÉE À PARIS • CRÉATIONS ARTISANALES
+          </mj-text>
+        </mj-column>
+      </mj-section>
+  
+      <mj-section background-color="#1f1815" padding="28px 20px 22px">
+        <mj-column>
+          <mj-text align="center" font-size="28px" font-weight="900" color="#f7f2ef" letter-spacing="5px" padding="0">
+            L'ATELIER DU DÉLICE
+          </mj-text>
+          <mj-text align="center" font-size="11px" color="#dfa15a" font-style="italic" padding="6px 0 16px">
+            Haute Pâtisserie &amp; Chocolaterie
+          </mj-text>
+          <mj-divider border-width="1px" border-color="#3d2e28" width="50px" padding="0 0 14px" />
+          <mj-text align="center" font-family="'Helvetica Neue', sans-serif" font-size="11px" letter-spacing="2px" padding="0">
+            <a href="#" style="color: #f7f2ef; text-decoration: none; padding: 0 12px;">CRÉATIONS</a>
+            <a href="#" style="color: #f7f2ef; text-decoration: none; padding: 0 12px;">ÉCRINS</a>
+            <a href="#" style="color: #f7f2ef; text-decoration: none; padding: 0 12px;">SALON DE THÉ</a>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+  
+      <mj-section background-color="#1f1815" padding="0">
+        <mj-column>
+          <mj-image src="https://images.unsplash.com/photo-1579372786545-d24232daf58c?w=900&auto=format&fit=crop&q=80" alt="Gâteau au chocolat signature" padding="0" />
+        </mj-column>
+      </mj-section>
+  
+      <mj-section background-color="#1f1815" padding="36px 30px">
+        <mj-column>
+          <mj-text align="center" padding="0 0 12px">
+            <span class="gold-tag">Collection Automne</span>
+          </mj-text>
+          <mj-text align="center" font-size="28px" color="#fbf7f4" font-weight="700" line-height="34px" padding="0 0 14px">
+            L'Opéra Noir &amp; Fève Tonka
+          </mj-text>
+          <mj-text align="center" font-size="13px" color="#d1bfb7" font-family="'Helvetica Neue', sans-serif" line-height="22px" padding="0 0 24px">
+            Un glaçage miroir délicat, un biscuit moelleux au cacao pur d’Équateur et une ganache soyeuse infusée à la vanille bourbon de Madagascar.
+          </mj-text>
+          <mj-button background-color="#dfa15a" color="#181311" font-size="11px" font-family="'Helvetica Neue', sans-serif" font-weight="800" letter-spacing="2px" text-transform="uppercase" border-radius="0px" inner-padding="14px 34px" href="#" css-class="btn-luxury">
+            Découvrir la création
+          </mj-button>
+        </mj-column>
+      </mj-section>
+  
+      <mj-section background-color="#fbf7f4" padding="45px 15px 15px">
+        
+        <mj-column width="50%" padding="8px">
+          <mj-section background-color="#ffffff" border="1px solid #ebdcd5" border-radius="4px" padding="16px 14px">
+            <mj-column width="100%" padding="0">
+              <mj-image src="https://images.unsplash.com/photo-1509440159596-0249088772ff?w=600&h=420&auto=format&fit=crop&q=80" alt="Tartelette Framboise" height="190px" border-radius="3px" padding="0" />
+              <mj-text align="center" color="#181311" padding="16px 0 6px" css-class="product-title">
+                La Tartelette Rubis
+              </mj-text>
+              <mj-text align="center" padding="0 0 10px" css-class="product-desc">
+                Pâte sablée croustillante, confit de framboises fraîches et éclats de pistaches de Sicile.
+              </mj-text>
+              <mj-text align="center" font-family="'Helvetica Neue', sans-serif" font-weight="800" color="#dfa15a" font-size="16px" padding="0 0 14px">
+                11,50 €
+              </mj-text>
+              <mj-button background-color="#181311" color="#fbf7f4" font-size="10px" font-family="'Helvetica Neue', sans-serif" font-weight="700" letter-spacing="1.5px" text-transform="uppercase" border-radius="0px" inner-padding="9px 18px" href="#">
+                Réserver
+              </mj-button>
+            </mj-column>
+          </mj-section>
+        </mj-column>
+  
+        <mj-column width="50%" padding="8px">
+          <mj-section background-color="#ffffff" border="1px solid #ebdcd5" border-radius="4px" padding="16px 14px">
+            <mj-column width="100%" padding="0">
+              <mj-image src="https://images.unsplash.com/photo-1606313564200-e75d5e30476c?w=600&h=420&auto=format&fit=crop&q=80" alt="Écrin Truffes Noires" height="190px" border-radius="3px" padding="0" />
+              <mj-text align="center" color="#181311" padding="16px 0 6px" css-class="product-title">
+                Écrin Truffes Noires 72%
+              </mj-text>
+              <mj-text align="center" padding="0 0 10px" css-class="product-desc">
+                Cacao grand cru de Madagascar roulé à la main, cœur fondant praliné amande brute.
+              </mj-text>
+              <mj-text align="center" font-family="'Helvetica Neue', sans-serif" font-weight="800" color="#dfa15a" font-size="16px" padding="0 0 14px">
+                16,00 €
+              </mj-text>
+              <mj-button background-color="#181311" color="#fbf7f4" font-size="10px" font-family="'Helvetica Neue', sans-serif" font-weight="700" letter-spacing="1.5px" text-transform="uppercase" border-radius="0px" inner-padding="9px 18px" href="#">
+                Réserver
+              </mj-button>
+            </mj-column>
+          </mj-section>
+        </mj-column>
+  
+      </mj-section>
+  
+      <mj-section background-color="#fbf7f4" padding="15px 25px 40px">
+        <mj-column>
+          <mj-section background-color="#f3ece7" border-radius="4px" padding="22px 20px">
+            <mj-column width="100%">
+              <mj-text align="center" font-size="14px" font-style="italic" color="#473a36" line-height="24px" padding="0">
+                « Chaque bouchée est imaginée comme une harmonie de textures : le croquant, le soyeux et l'intensité d'un cacao d'exception. »
+              </mj-text>
+            </mj-column>
+          </mj-section>
+        </mj-column>
+      </mj-section>
+  
+      <mj-section background-color="#120e0c" padding="35px 20px 30px">
+        <mj-column>
+          <mj-social font-size="11px" icon-size="18px" mode="horizontal" padding-bottom="16px">
+            <mj-social-element name="instagram" background-color="#dfa15a" color="#181311" href="#">
+            </mj-social-element>
+            <mj-social-element name="pinterest" background-color="#dfa15a" color="#181311" href="#">
+            </mj-social-element>
+          </mj-social>
+          <mj-text align="center" font-size="11px" color="#8a7872" font-family="'Helvetica Neue', sans-serif" line-height="18px">
+            L'Atelier du Délice • 18 Place Vendôme, Paris<br />
+            Retrait en boutique &amp; Livraison express réfrigérée.<br />
+            <a href="#" style="color: #c4b3ac; text-decoration: underline;">Se désinscrire</a> • <a href="#" style="color: #c4b3ac; text-decoration: underline;">Mentions légales</a>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+    </mj-body>
+  </mjml>
+  
